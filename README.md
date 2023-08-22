@@ -9,8 +9,7 @@ Users can fetch events of themselves and other users.
 Users can create events with other users for a defined start time and end time and delete events created by themselves.
 
 Organizer of an event can fetch the most favorable upcoming empty slot for a given set of users and a particular duration.
-	For instance user A would like to check the favorable slot with user B, user C to set an event of 4 hours duration. This would require user A to check the upcoming events in his/her calendar as well as for user B, user C.
-
+For instance user A would like to check the favorable slot with user B, user C to set an event of 4 hours duration. This would require user A to check the upcoming events in his/her calendar as well as for user B, user C.
 
 Users can fetch events where they have conflicts for themselves for a particular day.
 
